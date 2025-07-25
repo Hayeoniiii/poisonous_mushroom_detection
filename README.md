@@ -1,1 +1,1 @@
-# poisonous_mushroom_detection
+# 독버섯 탐지 이진분류 모델 데이터 분석
