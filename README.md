@@ -10,7 +10,6 @@
 ### 데이터 분석 및 전처리 
 불필요한 feature 제거: gill-attachment, veil-type, veil-color 제거 (총 22개 → 19개 feature 사용)<br>
 각 범주의 등장 빈도와 독버섯 확률 시각화하여 의미 없는 범주 파악<br>
-상관계수 및 크래머 법칙을 활용하여 중복된 범주형 feature 병합<br>
 비슷한 패턴을 갖는 feature를 그룹화해 데이터 효율성 개선<br>
 모든 feature를 One-hot 혹은 Multi-hot encoding으로 처리<br>
 
